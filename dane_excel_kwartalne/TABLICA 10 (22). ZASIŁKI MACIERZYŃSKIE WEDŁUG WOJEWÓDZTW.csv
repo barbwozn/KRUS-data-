@@ -1,7 +1,7 @@
 województwo, liczba świadczeń, kwota wpłat w zł, przeciętne świadczenie
 OGÓŁEM,	23 746	,23 886 940.28	,1 005.94
 dolnośląskie,	457	465, 771.10	,1 019.19
-kujawsko-pomorskie,	1 050	,1 057 840,60,	1 007.47
+kujawsko-pomorskie,	1 050	,1 057 840.60,	1 007.47
 lubelskie	,2 903,	2 987 953.55	,1 029.26
 lubuskie,	195	204, 446.90	, 1 048.45
 łódzkie	,1 329	,1 338 745.96,	1 007,33
@@ -16,4 +16,5 @@ pomorskie	, 918 ,	914 289.83	, 995.96
 warmińsko-mazurskie,	795,	800 548.89	, 1 006.98
 wielkopolskie,	2 304, 	2 310 926.10,	1 003.01
 zachodniopomorskie,	276	,275 718.90	, 998.98
+
 
