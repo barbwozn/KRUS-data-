@@ -3,7 +3,7 @@ import os, glob, re, unicodedata
 import pandas as pd
 from typing import List, Optional
 
-INPUT_DIR   = r"/content/KRUS-data-/dane_excel_kwartalne"
+INPUT_DIR   = r"dane_excel_kwartalne"
 OUTPUT_CSV  = r"./master_records.csv"
 
 # ── nazwy specjalne ──
